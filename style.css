@@ -6,3 +6,17 @@ img {
 a {
   color: blue;
 }
+
+* {
+  font-family: Helvetica;
+  font-size: 9;
+}
+
+div {
+  text-align: left;
+  padding: 10px;
+}
+
+footer {
+  padding: 10px;
+}
